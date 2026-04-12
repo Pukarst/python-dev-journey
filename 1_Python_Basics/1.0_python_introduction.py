@@ -16,5 +16,7 @@
 -runs on an interpreter system (code will execute as it is written)
 -can be treated in procedural,object-oriented or functional ways
 -possible to integrate with other programming language
+-used in web development,data analysis, automation and many other fields
+-dynamically typed and has automatic garbage collection
 
 '''
