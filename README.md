@@ -35,7 +35,7 @@ I created this repository to:
 - 🧮 Calculator
 - 🎯 Number Guessing Game
 - 📝 To-Do List
-- 🔐 Password Generator
+- 🔐 Password Generator and many more
 
 ---
 
